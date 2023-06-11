@@ -1,0 +1,14 @@
+#
+#--------------------------------------------------------------------------------
+##ASTER 15.06.00 CONCEPT 00000022 CALCULE LE 11/06/2023 A 14:08:51 DE TYPE        
+#TABLE_SDASTER                                                                   
+INTITULE         RESU     NOM_CHAM          NUME_ORDRE    INST         EXTREMA  NOEUD    CMP       VALE        
+DispAterro       00000021 DEPL                         0  5.000000E+00 MAX      N2191    DX        1.483045E-02
+DispAterro       00000021 DEPL                         0  5.000000E+00 MIN      N724     DZ        -4.923102E-01
+DispAterro       00000021 DEPL                         0  5.000000E+00 MAXI_ABS N724     DZ        4.923102E-01
+DispAterro       00000021 DEPL                         0  5.000000E+00 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         1  1.050000E+02 MAX      N2191    DX        1.109734E-02
+DispAterro       00000021 DEPL                         1  1.050000E+02 MIN      N724     DZ        -4.980445E-01
+DispAterro       00000021 DEPL                         1  1.050000E+02 MAXI_ABS N724     DZ        4.980445E-01
+DispAterro       00000021 DEPL                         1  1.050000E+02 MINI_ABS N280     DY        0.000000E+00
+
