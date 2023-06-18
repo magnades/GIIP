@@ -1,0 +1,34 @@
+#
+#--------------------------------------------------------------------------------
+##ASTER 15.06.00 CONCEPT 00000022 CALCULE LE 17/06/2023 A 18:55:58 DE TYPE        
+#TABLE_SDASTER                                                                   
+INTITULE         RESU     NOM_CHAM          NUME_ORDRE    INST         EXTREMA  NOEUD    CMP       VALE        
+DispAterro       00000021 DEPL                         0  5.000000E+00 MAX      N36106   DY        4.952759E-04
+DispAterro       00000021 DEPL                         0  5.000000E+00 MIN      N724     DZ        -4.754847E-01
+DispAterro       00000021 DEPL                         0  5.000000E+00 MAXI_ABS N724     DZ        4.754847E-01
+DispAterro       00000021 DEPL                         0  5.000000E+00 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         1  5.500000E+01 MAX      N2191    DX        2.066115E-02
+DispAterro       00000021 DEPL                         1  5.500000E+01 MIN      N724     DZ        -4.458377E-01
+DispAterro       00000021 DEPL                         1  5.500000E+01 MAXI_ABS N724     DZ        4.458377E-01
+DispAterro       00000021 DEPL                         1  5.500000E+01 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         2  6.500000E+01 MAX      N2191    DX        2.054135E-02
+DispAterro       00000021 DEPL                         2  6.500000E+01 MIN      N724     DZ        -4.476270E-01
+DispAterro       00000021 DEPL                         2  6.500000E+01 MAXI_ABS N724     DZ        4.476270E-01
+DispAterro       00000021 DEPL                         2  6.500000E+01 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         3  7.500000E+01 MAX      N2191    DX        2.042224E-02
+DispAterro       00000021 DEPL                         3  7.500000E+01 MIN      N724     DZ        -4.494166E-01
+DispAterro       00000021 DEPL                         3  7.500000E+01 MAXI_ABS N724     DZ        4.494166E-01
+DispAterro       00000021 DEPL                         3  7.500000E+01 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         4  8.500000E+01 MAX      N2191    DX        2.030371E-02
+DispAterro       00000021 DEPL                         4  8.500000E+01 MIN      N724     DZ        -4.512063E-01
+DispAterro       00000021 DEPL                         4  8.500000E+01 MAXI_ABS N724     DZ        4.512063E-01
+DispAterro       00000021 DEPL                         4  8.500000E+01 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         5  9.500000E+01 MAX      N2191    DX        2.018567E-02
+DispAterro       00000021 DEPL                         5  9.500000E+01 MIN      N724     DZ        -4.529963E-01
+DispAterro       00000021 DEPL                         5  9.500000E+01 MAXI_ABS N724     DZ        4.529963E-01
+DispAterro       00000021 DEPL                         5  9.500000E+01 MINI_ABS N280     DY        0.000000E+00
+DispAterro       00000021 DEPL                         6  1.050000E+02 MAX      N2191    DX        2.006792E-02
+DispAterro       00000021 DEPL                         6  1.050000E+02 MIN      N724     DZ        -4.547866E-01
+DispAterro       00000021 DEPL                         6  1.050000E+02 MAXI_ABS N724     DZ        4.547866E-01
+DispAterro       00000021 DEPL                         6  1.050000E+02 MINI_ABS N280     DY        0.000000E+00
+
